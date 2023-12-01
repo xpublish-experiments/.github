@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Xpublish-community show and tell
     url: https://github.com/xpublish-community/community/discussions/categories/show-and-tell
